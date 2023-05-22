@@ -17,4 +17,15 @@ Vi LTE|WWW
 
 ```
 
+```
+Facebook|www.facebook.com
+```
+
+```
+Google|www.google.com
+```
+
+```
+Vodafone|internet
+```
 
